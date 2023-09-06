@@ -1,6 +1,6 @@
 # Spring Boot "Casino" POC Project
 
-This is a sample Java / Maven / Spring Boot Proof of Concept REST API for a games provider.
+This is a simple Java / Maven / Spring Boot Proof of Concept REST API for a games provider.
 
 ## How to Run
 
