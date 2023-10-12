@@ -35,7 +35,7 @@ Base path: `http://localhost:8080/casino`
 ### Get a players balance
 
 ```
-GET /player/{playerId}/balance/update
+GET /player/{playerId}/balance
 
 RESPONSE: HTTP 200 (OK)
 {
@@ -72,7 +72,7 @@ Accept: application/json
 Content-Type: application/json
 
 {
-    "username": "BobTheBuilder22d"
+    "username": "BobTheBuilder22"
 }
 
 
